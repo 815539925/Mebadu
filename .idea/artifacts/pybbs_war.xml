@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="pybbs:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="pybbs.war">
-      <element id="artifact" artifact-name="pybbs:war exploded" />
-    </root>
-  </artifact>
-</component>
