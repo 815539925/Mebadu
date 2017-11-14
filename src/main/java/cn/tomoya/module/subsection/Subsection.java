@@ -29,7 +29,7 @@ public class Subsection extends BaseModel<Subsection> {
                             isshow, type);
             cache.set(CacheEnum.subsections.name() + isshow, list);
         }
-        return list;
-    }
+		return list;
+	}
 
 }
